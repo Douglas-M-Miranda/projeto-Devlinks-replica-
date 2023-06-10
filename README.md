@@ -9,6 +9,8 @@ Tecnologias   |    Projeto   |    Layout   |    Licença
 
 License
 
+![preview](https://github.com/Douglas-M-Miranda/projeto-Devlinks-replica-/assets/90347819/f5a12b8c-297b-421d-af8b-d87af1dbb663)
+
 
 projeto DevLinks
 
